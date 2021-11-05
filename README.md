@@ -1,1 +1,3 @@
 # odin-recipies
+Simple project about a list
+I should go on about this by using the learned HTML structure skills that i have picked up until now, such as unordered and ordered lists hyper links etc...
